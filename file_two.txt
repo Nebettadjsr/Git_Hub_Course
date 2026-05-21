@@ -1,1 +1,1 @@
-changes in file made on branch "new_branch"
+override changes in file made on branch "new_branch" to cause conflict
